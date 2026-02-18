@@ -1,0 +1,5 @@
+﻿newmtl MI_PrototypeGrid_Gray
+	map_Kd MI_PrototypeGrid_Gray_D.bmp
+	map_Ks MI_PrototypeGrid_Gray_S.bmp
+	bump MI_PrototypeGrid_Gray_N.bmp
+
